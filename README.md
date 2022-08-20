@@ -1,2 +1,2 @@
-# T-cnicas-de-Programa-o
-Exercícios feitos durante aula de técnicas de programação
+# Técnicas de Programação
+Exercícios feitos durante aula
